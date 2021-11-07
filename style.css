@@ -150,6 +150,16 @@ html{
     color: crimson;
 }
 
+.sociallinks i{
+    padding: 20px 10px;
+    max-width: 100px;
+    color: crimson;
+}
+
+.sociallinks i:hover {
+    color: white;
+}
+
 /* --------------------about section----------------------------- */
 section{
     padding: 100px 0;
