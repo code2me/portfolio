@@ -352,7 +352,7 @@ section{
 
 /* --------------------projects section----------------------------- */
 .projects .title::after {
-    content: "what i have done";
+    content: "projects";
 }
 
 .card{
